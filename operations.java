@@ -23,11 +23,4 @@ int b=5;
 c=a*b;
 System.out.println("multiplication is: "+c);
 }
-public void division()
-{
-int a=10;
-int b=5;
-c=a/b;
-System.out.println("division is: "+c);
-}
 }
